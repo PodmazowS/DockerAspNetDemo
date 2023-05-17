@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerAspNetDemo", "DockerAspNetDemo\DockerAspNetDemo.csproj", "{A6F5B6AF-41A8-488B-BA71-7387B82443C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQClient", "RabbitMQClient\RabbitMQClient.csproj", "{FA1FB514-E17E-461B-AE93-B85FC0C7957D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6F5B6AF-41A8-488B-BA71-7387B82443C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F5B6AF-41A8-488B-BA71-7387B82443C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F5B6AF-41A8-488B-BA71-7387B82443C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F5B6AF-41A8-488B-BA71-7387B82443C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1FB514-E17E-461B-AE93-B85FC0C7957D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1FB514-E17E-461B-AE93-B85FC0C7957D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1FB514-E17E-461B-AE93-B85FC0C7957D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1FB514-E17E-461B-AE93-B85FC0C7957D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37845460-61EC-4225-A069-06A32264BF74}
+	EndGlobalSection
+EndGlobal
